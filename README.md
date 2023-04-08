@@ -11,7 +11,7 @@ exercise5
 <li style="color:blue"> Theory Paper </li>
 </ul><br>
 <table border="5" cellspacing="5" align="center" bgcolor="yellow" font-color="blue">
-<tr>
+<tr style="color:blue">
    <td align="center" height="10" width="300">
            <b>Paper</b>
    </td>
@@ -19,7 +19,7 @@ exercise5
            <b>Duration</b>
    </td>
 </tr>
-<tr>
+<tr style="color:blue">
    <td align="center" height="10" width="300">
            <p>Multiple Questions & structured Questions</p>
    </td>
@@ -33,7 +33,7 @@ exercise5
 </ul><br>
 
 <table border="5" cellspacing="5" align="center" bgcolor="lightpink" >
-<tr>
+<tr style="color:blue">
 <td align="center" height="10" width="150">
            <b>Question Number</b>
    </td>
@@ -45,22 +45,22 @@ exercise5
    </td>
 </tr>
 
-<tr>
+<tr style="color:blue">
  <td align="left" height="10" width="150">Ques.1</td>
 <td align="left" height="10" width="150">Operating System</td>
 <td align="center" height="10" width="100">30 minutes</td>
 </tr>
-<tr>
+<tr style="color:blue">
  <td align="left" height="10" width="150">Ques.2</td>
 <td align="left" height="10" width="150">Word Processing</td>
 <td align="center" height="10" width="100">30 minutes</td>
 </tr>
-<tr>
+<tr style="color:blue">
  <td align="left" height="10" width="150">Ques.3</td>
 <td align="left" height="10" width="150">Spreadsheets</td>
 <td align="center" height="10" width="100">30 minutes</td>
 </tr>
-<tr>
+<tr style="color:blue">
  <td align="left" height="10" width="150">Ques.4</td>
 <td align="left" height="10" width="150">Presentation</td>
 <td align="center" height="10" width="100">30 minutes</td>
@@ -69,7 +69,9 @@ exercise5
 <ul:"center"> 
 <li style="color:blue"> Practical Part B.... </li>
 </ul><br>
-<a href> Registration</a>
+<a href> Registration</a><br><br><br>
+
+ <img src="C:\Users\HP\Desktop\html\images\dog.jpg">  
 
 
 
